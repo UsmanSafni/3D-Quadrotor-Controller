@@ -23,5 +23,4 @@ The quadrotor is modeled using a combination of coordinate systems, motor models
 5. **Trajectory Examples**
    - Two pre-defined trajectories, `traj_helix.p` and `traj_line.p`, showcase different scenarios for testing the controller's capabilities.
 
-Feel free to clone this repository and explore the code to understand the implementation details and test the system with different trajectories.
 
